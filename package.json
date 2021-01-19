@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG Game Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussTracy/Jest-Another-RPG.git"
+  },
+  "author": "Russ Tracy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussTracy/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/RussTracy/Jest-Another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
