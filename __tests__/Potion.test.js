@@ -1,5 +1,4 @@
-const { TestScheduler } = require('jest');
-const Potion = require('../lib/Potion.js');
+const Potion = require('../lib/Potion');
 
 test('Creates a health potion object', () => {
     const potion = new Potion('Health');
